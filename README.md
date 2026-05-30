@@ -1,46 +1,84 @@
 <!-- ===================================== -->
-<!--        HASHIR ALI - GITHUB PROFILE    -->
+
+<!--         HASHIR ALI GITHUB PROFILE     -->
+
 <!-- ===================================== -->
 
 <h1 align="center">Hi 👋, I'm Hashir Ali</h1>
 
+<h3 align="center">
+Software Engineering Student • AI Builder • Full Stack Developer in Progress
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Developer;Building+AI+Powered+Apps;Cross+Platform+App+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Building+Real+World+Applications;Learning+Full+Stack+Development;Future+Software+Engineer;Turning+Ideas+Into+Products" />
 </p>
 
 <p align="center">
-  📱 Flutter Developer • 🚀 Mobile App Builder • 🤖 AI Integration Learner
+🎓 Software Engineering Student | 🤖 AI Enthusiast | 🌐 Full Stack Developer in Progress
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashir2005-R&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=hashir2005-R&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-- 📱 Flutter developer focused on **cross-platform mobile applications**
-- 🧠 Interested in **AI + Mobile Applications**
-- 🚀 Currently learning **advanced Flutter architecture**
-- 🛠️ Building **real world apps**
-- 📚 Always improving through **projects and experimentation**
+I'm a Software Engineering student passionate about building real-world solutions using Artificial Intelligence, modern web technologies, and software engineering principles.
+
+Currently focused on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full Stack Web Development
+* 📱 Cross-Platform Applications
+* 🚀 Building Portfolio-Grade Projects
+* 📚 Continuous Learning
+* 💡 Solving Real-World Problems Through Technology
 
 ---
 
-# 🚀 Tech Stack
+# 🎯 Current Goal
 
-### 📱 Mobile Development
+Building strong foundations in Software Engineering, Full Stack Development, and AI while creating industry-grade projects before graduating in 2027.
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=python,dart,javascript" />
 </p>
 
-### ⚙️ Backend / AI
+### Artificial Intelligence & Machine Learning
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,firebase" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-### 🛠️ Tools
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 </p>
@@ -49,27 +87,51 @@
 
 # 🌱 Currently Learning
 
-- Flutter Clean Architecture  
-- State Management (Provider / Riverpod / Bloc)  
-- Firebase Authentication & Firestore  
-- REST API integration  
-- AI integration with mobile apps  
+* MERN Stack Development
+* React.js
+* Node.js & Express.js
+* MongoDB
+* REST APIs
+* Git & GitHub
+* AI Engineering
+* RAG Applications
+* System Design Fundamentals
 
 ---
 
-# 📱 Featured Project
+# 🚀 Featured Project
 
-### DermDetect – AI Skin Disease Detection App
+## 🩺 DermDetect — AI Skin Disease Detection
 
-An **AI-powered Flutter mobile application** that helps users detect possible skin diseases using **machine learning and image analysis**.
+An AI-powered mobile application that assists users in identifying possible skin diseases using deep learning and computer vision.
 
-Features:
+### Highlights
 
-- 📷 Skin image analysis
-- 🤖 AI disease prediction
-- 📚 Disease information
-- 📱 Flutter cross-platform app
-- 🔥 Firebase backend
+* 📷 Skin Image Classification
+* 🤖 EfficientNet-Based Deep Learning Model
+* 📊 Achieved ~90% Accuracy
+* 📚 Disease Information & Guidance
+* 📱 Cross-Platform Mobile Application
+* 🔥 Firebase Integration
+* 🧠 Custom Model Training Using Kaggle Dataset
+
+### Tech Stack
+
+Flutter • Python • TensorFlow • EfficientNet • Firebase
+
+---
+
+# 📈 2026 Roadmap
+
+* ✅ Flutter Development
+* ✅ Machine Learning Fundamentals
+* ✅ Deep Learning Project Development
+* 🔄 MERN Stack Development
+* 🔄 Portfolio Website
+* 🔄 Full Stack Projects
+* 🔄 AI-Powered Applications
+* 🔄 Open Source Contributions
+* 🎯 Internship / Remote Opportunities
 
 ---
 
@@ -77,9 +139,9 @@ Features:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hashir2005-R&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hashir2005-R&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir2005-R&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir2005-R&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -93,10 +155,18 @@ Features:
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hashir2005-R&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hashir2005-R&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 📅 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashir2005-R&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -104,7 +174,7 @@ Features:
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -114,11 +184,11 @@ Features:
 <p align="center">
 
 <a href="mailto:hashirali2027@gmail.com">
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/hashir2005-R">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hashir-ali-198391399">
@@ -133,18 +203,16 @@ Features:
 
 ---
 
-# 💡 Developer Quote
+# 💭 Philosophy
 
 <p align="center">
 
-> **"Build apps that solve real problems."**
+> "Build. Learn. Improve. Repeat."
 
 </p>
 
 ---
 
 <p align="center">
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-
 </p>
